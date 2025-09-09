@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+bcrypt
+plotly
+fpdf2
+openpyxl
+email-validator
+Pillow
+python-dateutil
